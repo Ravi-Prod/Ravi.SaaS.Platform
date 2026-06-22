@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Auth.API/Auth.API.csproj" />
+  <Project Path="Device.API/Device.API.csproj" />
+  <Project Path="Gateway.API/Gateway.API.csproj" />
+  <Project Path="Queue.API/Queue.API.csproj" />
+</Solution>
